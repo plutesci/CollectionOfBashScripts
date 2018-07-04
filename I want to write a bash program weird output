@@ -1,0 +1,21 @@
+#!/bin/sh
+# This Program is to Show user the commands to create a bash script
+# to execute this program type at terminal ./'I want to write a bash program
+clear
+echo #########################################################################
+echo Showing the command line steps to start a Hello World program
+echo *************************************************************************
+echo #########################################################################
+echo Where you see test.sh, Please rename test.sh
+echo *************************************************************************
+echo #########################################################################
+echo Follow Steps Below...
+echo *************************************************************************
+echo "'#!/bin/sh' > test.sh 	# change test.sh"
+echo "'echo Hello World' >> test.sh	# change test.sh"
+echo chmod 755 test.sh	# change test.sh
+echo nano test.sh	# change test.sh
+
+# I want to add an option to ask user if they want to start a new bash \
+# program yes \ no? 
+# if yes\Yes query user for new name, What to call this bash ? ...... 
